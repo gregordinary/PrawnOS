@@ -21,6 +21,7 @@
 device_veyron_speedy="Google Speedy"
 device_veyron_minnie="Google Minnie"
 device_veyron_mickey="Google Mickey"
+device_veyron_tiger="Google Tiger"
 device_gru_kevin="Google Kevin"
 device_gru_bob="Google Bob"
 
